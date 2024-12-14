@@ -7,7 +7,8 @@ Welcome to the User Transactions Dashboard where you can the see the transaction
 
 to get started with you have take clone of this repo and 
 1. run command npm install in terminal of repo that you have taken clone of to download all the npm packages.
-2. run this command in different terminal npx json-server --watch db.json --port 3300 to run json-server, it will be pointing to 3300.
+2. run this command in different terminal to run json-server, it will be pointing to 3300.
+  **npx json-server --watch db.json --port 3300 **
 3. Now your app should be working fine in http://localhost:3000.
 
 ### `npm test`
