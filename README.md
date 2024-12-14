@@ -11,6 +11,9 @@ to get started with you have take clone of this repo and
   **npx json-server --watch db.json --port 3300 **
 3. Now your app should be working fine in http://localhost:3000.
 
+<img width="1472" alt="image" src="https://github.com/user-attachments/assets/cfc8e86f-a7d8-4b42-8a52-1e386ebed141" />
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
