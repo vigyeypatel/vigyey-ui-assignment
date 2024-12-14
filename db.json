@@ -1,0 +1,90 @@
+{
+    "transactions": [
+        {
+          "customerId": 1,
+          "userName": "John Doe",
+          "transactionDate": "2024-03-05 10:30:00",
+          "transactionAmount": 120
+        },
+        {
+          "customerId": 1,
+          "userName": "John Doe",
+          "transactionDate": "2024-03-15 15:45:00",
+          "transactionAmount": 200
+        },
+        {
+          "customerId": 1,
+          "userName": "John Doe",
+          "transactionDate": "2024-03-22 19:00:00",
+          "transactionAmount": 50
+        },
+        {
+          "customerId": 2,
+          "userName": "Jane Smith",
+          "transactionDate": "2024-02-10 08:15:00",
+          "transactionAmount": 75
+        },
+        {
+          "customerId": 2,
+          "userName": "Jane Smith",
+          "transactionDate": "2024-02-15 13:00:00",
+          "transactionAmount": 130
+        },
+        {
+          "customerId": 3,
+          "userName": "Sam Wilson",
+          "transactionDate": "2024-01-20 17:30:00",
+          "transactionAmount": 90
+        },
+        {
+          "customerId": 3,
+          "userName": "Sam Wilson",
+          "transactionDate": "2024-01-25 21:15:00",
+          "transactionAmount": 150
+        },
+        {
+          "customerId": 3,
+          "userName": "Sam Wilson",
+          "transactionDate": "2024-01-28 09:45:00",
+          "transactionAmount": 60
+        },
+        {
+          "customerId": 4,
+          "userName": "Alice Brown",
+          "transactionDate": "2024-03-12 11:00:00",
+          "transactionAmount": 40
+        },
+        {
+          "customerId": 4,
+          "userName": "Alice Brown",
+          "transactionDate": "2024-03-19 14:30:00",
+          "transactionAmount": 200
+        },
+        {
+          "customerId": 4,
+          "userName": "Alice Brown",
+          "transactionDate": "2024-02-05 16:00:00",
+          "transactionAmount": 85
+        },
+        {
+          "customerId": 5,
+          "userName": "Michael Green",
+          "transactionDate": "2024-02-15 12:45:00",
+          "transactionAmount": 110
+        },
+        {
+          "customerId": 5,
+          "userName": "Michael Green",
+          "transactionDate": "2024-03-02 20:15:00",
+          "transactionAmount": 95
+        },
+        {
+          "customerId": 5,
+          "userName": "Michael Green",
+          "transactionDate": "2024-01-10 10:00:00",
+          "transactionAmount": 70
+        }
+      ] 
+      
+  }
+  
